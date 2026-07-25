@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-0184tz.jambul126.online/sitemap.xml
